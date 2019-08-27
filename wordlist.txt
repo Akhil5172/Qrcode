@@ -1,0 +1,2 @@
+$BASH badstuff.sh // wow +||
+SUM $$JAX$$$ _BIGTIME_x_X-_X
